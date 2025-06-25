@@ -1,6 +1,7 @@
 
-
 # 🦾 Autonomous Robotic Arm and Cart for Warehouses
+
+![Dashboard Preview](./mockup1.png)
 
 An innovative IoT-based solution designed to automate warehouse operations using a robotic arm mounted on a mobile cart, integrated with a mobile application for real-time inventory control and smart logistics.
 
